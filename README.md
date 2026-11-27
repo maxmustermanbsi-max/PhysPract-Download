@@ -54,3 +54,7 @@ Die APKs sind mit einem Entwicklungsschlüssel signiert. Eine bereits installier
 Fehler oder Wünsche gern als GitHub-Issue melden. Bei Fehlern helfen Betriebssystem, App-Version, Schritte zum Nachstellen und die genaue Fehlermeldung.
 
 [SHA-256-Prüfsummen](SHA256SUMS) · [Drittkomponenten](THIRD_PARTY.md)
+
+## Nutzungshinweis
+
+PhysPract Native ist eine Nachentwicklung der Software PhysPract für das Physikpraktikum der Technischen Universität Ilmenau. Diese Testversion ist ausschließlich für den internen Einsatz in diesem Physikpraktikum vorgesehen.
